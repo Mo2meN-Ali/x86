@@ -1,0 +1,17 @@
+﻿Build started 11/15/2013 1:49:41 AM.
+     1>Project "C:\Users\engineer\Documents\Visual Studio 2013\Projects\gate_calculator\gate_calculator\gate_calculator.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Intel\Composer XE 2013 SP1\bin\ia32\icl.exe /c /Qvc12 /Qlocation,link,"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin" /ZI /nologo /W3 /Od /Qftz- /D __INTEL_COMPILER=1400 /D WIN32 /D _DEBUG /D _CONSOLE /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /EHsc /RTC1 /MDd /GS /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC main.c
+         main.c
+       Link:
+         C:\Program Files (x86)\Intel\Composer XE 2013 SP1\bin\ia32\xilink.exe /OUT:"C:\Users\engineer\Documents\Visual Studio 2013\Projects\gate_calculator\Debug\gate_calculator.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\gate_calculator.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\engineer\Documents\Visual Studio 2013\Projects\gate_calculator\Debug\gate_calculator.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\engineer\Documents\Visual Studio 2013\Projects\gate_calculator\Debug\gate_calculator.lib" /MACHINE:X86 Debug\main.obj
+         xilink: executing 'link'
+       LinkEmbedManifest:
+         C:\Program Files (x86)\Intel\Composer XE 2013 SP1\bin\ia32\xilink.exe /OUT:"C:\Users\engineer\Documents\Visual Studio 2013\Projects\gate_calculator\Debug\gate_calculator.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\gate_calculator.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\engineer\Documents\Visual Studio 2013\Projects\gate_calculator\Debug\gate_calculator.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\engineer\Documents\Visual Studio 2013\Projects\gate_calculator\Debug\gate_calculator.lib" /MACHINE:X86 Debug\main.obj
+         xilink: executing 'link'
+         gate_calculator.vcxproj -> C:\Users\engineer\Documents\Visual Studio 2013\Projects\gate_calculator\Debug\gate_calculator.exe
+     1>Done Building Project "C:\Users\engineer\Documents\Visual Studio 2013\Projects\gate_calculator\gate_calculator\gate_calculator.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:05.29
