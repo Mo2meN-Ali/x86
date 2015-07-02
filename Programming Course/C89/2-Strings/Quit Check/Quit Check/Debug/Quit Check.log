@@ -1,0 +1,14 @@
+﻿Build started 6/26/2015 8:09:15 PM.
+     1>Project "E:\System Programming\x86\Programming Course\C89\2-Strings\Quit Check\Quit Check\Quit Check.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt testChk.c
+         testChk.c
+     1>e:\system programming\x86\programming course\c89\2-strings\quit check\quit check\testchk.c(22): warning C4013: 'system' undefined; assuming extern returning int
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\System Programming\x86\Programming Course\C89\2-Strings\Quit Check\Debug\Quit Check.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\System Programming\x86\Programming Course\C89\2-Strings\Quit Check\Debug\Quit Check.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\System Programming\x86\Programming Course\C89\2-Strings\Quit Check\Debug\Quit Check.lib" /MACHINE:X86 Debug\testChk.obj
+         Quit Check.vcxproj -> E:\System Programming\x86\Programming Course\C89\2-Strings\Quit Check\Debug\Quit Check.exe
+     1>Done Building Project "E:\System Programming\x86\Programming Course\C89\2-Strings\Quit Check\Quit Check\Quit Check.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.53
